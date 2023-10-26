@@ -1,0 +1,23 @@
+
+h1 {
+    text-align: center;
+    color:rgb(255, 255, 255);
+    border-color: cornflowerblue;
+    border-width: 3px;
+    border-style:groove;
+}
+
+h4 {
+    color: aliceblue;
+}
+
+li {
+    color:antiquewhite;
+}
+
+body {
+    background-image:url(https://www.naoviu.com.br/wp-content/uploads/2023/08/Spacex.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
